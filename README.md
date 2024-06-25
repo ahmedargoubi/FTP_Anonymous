@@ -1,6 +1,6 @@
 # Setting Up and Testing Anonymous FTP 
 
-This repository documents the configuration and testing of an anonymous FTP server using vsftpd on Ubuntu. The setup includes enabling anonymous login, creating shared directories, and verifying server accessibility.
+This repository documents the configuration and testing of an anonymous FTP server using vsftpd on Ubuntu. 
 
 ## Setup
 
