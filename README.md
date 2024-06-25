@@ -2,7 +2,7 @@
 
 This repository documents the configuration and testing of an anonymous FTP server using vsftpd on Ubuntu. 
 
-## Setup
+## Setup (Ubuntu machine)
 
 1. Install vsftpd:
 
@@ -48,7 +48,7 @@ Restart vsftpd for changes to take effect:
 service vsftpd restart
 ```
 
-## Testing
+## Testing (Kali machine)
 
 Use Nmap to scan for open ports:
 
